@@ -1,7 +1,10 @@
 # Scripts
-MATLAB and Python Scripts by Gabriel Bronk: Selected Scripts from Journal Articles by Bronk and Educational Scripts for College/High School Lessons 
+R, MATLAB and Python Scripts by Gabriel Bronk: Selected Scripts from Journal Articles by Bronk and Educational Scripts for College/High School Lessons 
 
-Below, I list the scripts that I have posted to my GitHub. If you have any questions or would like to see scripts from my research that I have not posted, please email me at gbronk AT brandeis.edu
+For R scripts from a recent publication by Gabriel Bronk on tuberculosis transcriptomics, please go to:
+https://github.com/gabrielbronk/TBRNA2025
+
+Below, I list the scripts that I have posted to my GitHub. If you have any questions or would like to see scripts from my research that I have not posted, please email me at bronkga AT gmail.com
 
 1) IntroductionToModelingChromosomesWithFreelyJointedChain.m
   This MATLAB code simulates a random conformation of the arm of a chromosome 
