@@ -1,7 +1,9 @@
 # Scripts
-MATLAB and Python Scripts by Gabriel Bronk: Selected Scripts from Journal Articles by Bronk and Educational Scripts for College/High School Lessons 
+MATLAB Scripts by Gabriel Bronk: Selected Scripts from Journal Articles by Bronk and Educational Scripts for College/High School Lessons 
 
-Below, I list the scripts that I have posted to my GitHub. If you have any questions or would like to see scripts from my research that I have not posted, please email me at gbronk AT brandeis.edu
+(For R Scripts from the article "Host RNA biomarkers in cord blood predict Mycobacterium tuberculosis infection or TB disease during childhood," see https://github.com/gabrielbronk/TBRNA2025 )
+
+Below, I list the MATLAB scripts that I have posted to my GitHub. If you have any questions or would like to see scripts from my research that I have not posted, please email me at bronkga AT gmail.com
 
 1) IntroductionToModelingChromosomesWithFreelyJointedChain.m
   This MATLAB code simulates a random conformation of the arm of a chromosome 
@@ -22,9 +24,4 @@ Below, I list the scripts that I have posted to my GitHub. If you have any quest
   switching in yeast" published in PNAS in 2016 by Avaroglu, Bronk, et al.
   The algorithm is described in the paper's Supplementary Information under
   the heading "Polymer Model Simulation Details."
-  
- 3) IntroductionToMachineLearningWithPython.py
-   This Python code loads patient data (physiological measurements from the ICU) and uses 
-   it to predict whether patients will get sepsis. This code is inteded for teaching college 
-   or advanced high school students how to do machine learning (using the specific machine
-   learning example of a generalized linear model). 
+
